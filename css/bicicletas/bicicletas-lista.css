@@ -16,7 +16,10 @@
   margin-left: auto;
   margin-right: auto;
   overflow: auto;
+}
 
+#bicicleta .bicicletas-lista ul {
+  padding: 0 0 20px 0;
 }
 
 .bicicletas-lista li {
